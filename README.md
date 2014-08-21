@@ -1,0 +1,4 @@
+tiukeQuadranti
+==============
+
+plugin per quadranti
